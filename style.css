@@ -2,6 +2,12 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
 p{
     font-family: monospace, Arial, Helvetica, sans-serif;
     text-align: justify;
@@ -9,3 +15,4 @@ p{
 body{
     background-color: #afd5aa;
 }
+
