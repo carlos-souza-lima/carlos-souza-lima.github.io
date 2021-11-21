@@ -1,0 +1,30 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    font-family: monospace, Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+body{
+    background-color: #afd5aa;
+}
+.tamanho1{
+    font-size: 25px;
+}
+.tamanho2{
+    font-size: 20px;
+}
+.tamanho3{
+    font-size: 15px;
+}
+.obs{
+    font-size: 0.7em;
+    text-align: right;
+}
