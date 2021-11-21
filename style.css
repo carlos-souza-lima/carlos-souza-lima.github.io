@@ -1,6 +1,8 @@
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 p{
-    font-family: monospace;
+    font-family: monospace, Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
