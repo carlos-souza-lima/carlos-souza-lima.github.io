@@ -1,27 +1,32 @@
-* {
-    margin:0;
+body {
+  margin:0;
 	padding:0;
 	border:0;
+  background-color: #afd5aa;
 }
-
 
 h1{
-    font-family: "Kings", Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
+  font-family: "Kings", Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
 }
+
 h2{
-    text-align: center;
+  text-align: center;
 }
+
 h3{
-    text-align: center;
+  text-align: center;
 }
+
 p{
     font-family: monospace, Arial, Helvetica, sans-serif;
     text-align: justify;
 }
-body{
-    background-color: #afd5aa;
+span{
+  font-weight: bold;
+  font-style: oblique;
 }
+
 .tamanho1{
     font-size: 25px;
 }
@@ -33,7 +38,7 @@ body{
 }
 .obs{
     font-size: 0.7em;
-    text-align: right;
+    text-align: center;
 }
 .config-image{
     display: block;
@@ -42,15 +47,18 @@ body{
     border-radius: 100%;
 }
 .topo {
-    
-    
     background-color: #386641;
     height: 40px;
-    padding: 5px;
+    padding: 5px 20px;
+}
+.topo li{
+  display: inline-block;
+  margin: 0px 20px;
 }
 .imagem{
     margin: 5px;
 }
-div.topo{
-    text-align: center;
+
+.main{
+  padding: 30px 50px;
 }
