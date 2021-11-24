@@ -1,3 +1,10 @@
+* {
+    margin:0;
+	padding:0;
+	border:0;
+}
+
+
 h1{
     font-family: "Kings", Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -33,4 +40,17 @@ body{
     margin-left: auto;
     margin-right: auto;
     border-radius: 100%;
+}
+.topo {
+    
+    
+    background-color: #386641;
+    height: 40px;
+    padding: 5px;
+}
+.imagem{
+    margin: 5px;
+}
+div.topo{
+    text-align: center;
 }
